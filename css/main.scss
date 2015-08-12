@@ -8,20 +8,19 @@
 // Our variables
 $base-font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
 $mega-font-size: 100px;
 $h1-font-size: 70px;
 $h2-font-size: 40px;
 $h3-font-size: 30px;
 $h4-font-size: 24px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #333;
+$text-color: #333;
 $background-color: #f6f6f6;
-$brand-color:      #ec008c;
+$brand-color: #ec008c;
 
 $blue-color: #92b5bd;
 $yellow-color: #ede24e;
@@ -59,5 +58,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "gradient-bar"
 ;
