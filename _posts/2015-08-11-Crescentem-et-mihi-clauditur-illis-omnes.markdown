@@ -3,6 +3,7 @@ layout: post
 title:  "Crescentem et mihi clauditur illis omnes"
 date:   2015-08-11 11:50:07
 categories: jekyll update
+featured: true
 ---
 ## Redeunt sanguine Odrysius
 

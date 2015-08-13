@@ -3,6 +3,7 @@ layout: post
 title:  "Formae harundine quem quisquis"
 date:   2015-08-08 11:50:07
 categories: jekyll update
+featured: true
 ---
 
 ## Resumere in corniger faciem
