@@ -3,6 +3,7 @@ layout: post
 title:  "Temptaretque putat praemonitus fuerunt Themis"
 date:   2015-08-12 11:50:07
 categories: jekyll update
+tags: code
 ---
 
 ## Nectare sua patrem stringebat nomine incursant illuc
