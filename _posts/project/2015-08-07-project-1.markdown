@@ -4,7 +4,7 @@ title:  "Project 1"
 date:   2015-08-07 11:50:07
 categories: project
 featured: true
-featured_image: "images/project.png"
+featured_image: "/images/project.png"
 ---
 ## Sunt per cognita turbant
 
