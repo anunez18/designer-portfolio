@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Formae harundine quem quisquis"
+title:  "Project 2"
 date:   2015-08-08 11:50:07
 categories: project
 featured: true
+featured_image: "images/project.png"
 tags: design
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Project 1"
+title:  "Pudibunda miscentem io maris perstrinxerat auras et"
 date:   2015-08-07 11:50:07
 categories: project
-featured: true
-featured_image: "images/project.png"
+tags: code inspiration
 ---
 ## Sunt per cognita turbant
 
