@@ -2,7 +2,7 @@
 layout: post
 title:  "Pudibunda miscentem io maris perstrinxerat auras et"
 date:   2015-08-07 11:50:07
-categories: jekyll update
+categories: blog
 tags: code inspiration
 ---
 ## Sunt per cognita turbant

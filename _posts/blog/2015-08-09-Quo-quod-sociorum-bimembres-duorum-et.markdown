@@ -2,7 +2,7 @@
 layout: post
 title:  "Quo quod sociorum bimembres duorum et"
 date:   2015-08-09 11:50:07
-categories: jekyll update
+categories: blog
 tags: snippet
 ---
 ## Referre opus

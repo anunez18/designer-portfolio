@@ -2,7 +2,7 @@
 layout: post
 title:  "Temptaretque putat praemonitus fuerunt Themis"
 date:   2015-08-12 11:50:07
-categories: jekyll update
+categories: blog
 tags: code
 ---
 
